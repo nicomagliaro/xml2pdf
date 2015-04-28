@@ -1,7 +1,7 @@
 """
 # Autor: Nicolas Magliaro  -- mailto: nicolasmagliaro@gmail.com
-# Creacion: 22/4/2015                Revision: 22/4/2015
-# Version: 0.1.3
+# Creacion: 22/4/2015                Revision: 28/4/2015
+# Version: 0.1.4
 """
 from ConfigParser import SafeConfigParser
 import base64, shutil, os, sys, datetime
